@@ -2,8 +2,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Happy Games</title>
-	<link rel="stylesheet" href="style.css">
+	<title>Login</title>
+	<link rel="stylesheet" href="styleLoginRegister.css">
 </head>
 <body>
 	<form class="box" action="index.html" method="post">
